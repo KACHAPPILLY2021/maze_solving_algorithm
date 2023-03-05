@@ -89,16 +89,13 @@ Detailed decription for this project can be found in this [Report](https://githu
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+These are the instructions to get started on the project.
+To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
+* atleast C++17
+* OS - Linux (tested)
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
 ### Installation
 
@@ -149,6 +146,9 @@ How to start simulator and use this DFS code in it.
    ./mms
    ```
 2. Choose any maze type and Click on the + button as shown in figure.
+
+<img src="https://github.com/KACHAPPILLY2021/maze_solving_algorithm/blob/main/img/Screenshot%20from%202023-03-04%2020-22-05_2.png" alt="screenshot">
+
 3. **Directory**: Click Browse and navigate to 'maze_solving_algorithm'
 4. Enter **Build command** as:
    ```sh
@@ -175,9 +175,10 @@ Here are the
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Jeffin Johny K - [![MAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeffinjk@umd.edu)
+	
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/KACHAPPILLY2021)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/jeffin-johny-kachappilly-0a8597136)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -186,7 +187,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See [MIT](https://choosealicense.com/licenses/mit/) for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
