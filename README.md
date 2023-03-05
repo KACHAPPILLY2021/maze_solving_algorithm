@@ -1,9 +1,11 @@
+<a name="readme-top"></a>
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
 
 
-  <h3 align="center">Depth First Search in Micromouse Simulator</h3>
+  <h1 align="center">Depth First Search in Micromouse Simulator</h1>
 
 
 </div>
@@ -17,13 +19,13 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#Demo">Demo</a></li>
+        <li><a href="#demo">Demo</a></li>
       </ul>
     </li>
     <li>
-      <a href="#Documentation">Documentation</a>
+      <a href="#documentation">Documentation</a>
       <ul>
-        <li><a href="#Report">Report</a></li>
+        <li><a href="#report">Report</a></li>
       </ul>
     </li>
     <li>
@@ -47,16 +49,15 @@
 
 
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Implemented Depth First Search algorithm using Object Oriented Programming in C++ and visualized its output using Micromouse simulator.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+Summary of tasks achieved:
+* Implemented DFS using a representation of the maze(mouse has no prior knowledge of walls except the boundaries.)
+* Generated path from current position to goal using the representation of the maze.
+* Moved the mouse using API interface commands and updated the walls as detected.
+* The robot halted when the mouse hit a wall, and DFS was employed to recalculate the path using prior wall data.
+* The described steps were repeated until the goal position was achieved.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -64,16 +65,7 @@ Use the `BLANK_README.md` to get started.
 
 ### Demo
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+![mms-online-video-cuttercom (1)](https://user-images.githubusercontent.com/90359587/222934357-121dc07a-3808-41db-9748-82bb94266003.gif)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -82,6 +74,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- Document and Reports -->
 ## Documentation
 
+The documentation for this project can be found here.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -89,7 +82,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 ### Report
 
-
+Detailed decription for this project can be found in this [Report](https://github.com/KACHAPPILLY2021/maze_solving_algorithm/tree/main/primary_report)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -143,16 +136,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- CONTRIBUTORS -->
 ## Contributors
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+Here are the
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
