@@ -102,21 +102,36 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+Installing the micromouse simulator and running the code.
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Make directory
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   mkdir ~/RWA2_simulator
    ```
-3. Install NPM packages
+2. Clone the repos
    ```sh
-   npm install
+   cd ∼ /RWA2_simulator
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+   ```sh
+   git clone https://github.com/mackorone/mms.git
    ```
+   ```sh
+   git clone https://github.com/micromouseonline/mazefiles.git
+   ```
+   ```sh
+   git clone https://github.com/KACHAPPILLY2021/maze_solving_algorithm.git
+   ```
+3. Compile Simulator
+   ```sh
+   sudo apt-get install qt5-default
+   ```
+   ```sh
+   cd mms/src
+   ```
+   ```sh
+   qmake && make
+   ```
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -125,10 +140,25 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
+How to start simulator and use this DFS code in it.
+1. Start simulator
+   ```sh
+   cd ∼ /RWA2_simulator/mms/bin
+   ```
+   ```sh
+   ./mms
+   ```
+2. Choose any maze type and Click on the + button as shown in figure.
+3. **Directory**: Click Browse and navigate to 'maze_solving_algorithm'
+4. Enter **Build command** as:
+   ```sh
+   g++ src/main.cpp src/mouse.cpp src/node.cpp src/api.cpp
+   ```
+5. Enter **Run Command** as :
+  ```sh
+  ./a.out
+  ```
+6. Then Press **Build**, followed by **RUN** under the **Controls** Section
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
