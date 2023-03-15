@@ -74,7 +74,7 @@ Summary of tasks achieved:
 <!-- Document and Reports -->
 ## Documentation
 
-The documentation for this project can be found here.
+The documentation for this project can be found [here](https://kachappilly2021.github.io/maze_solving_algorithm/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
