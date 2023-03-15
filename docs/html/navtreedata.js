@@ -22,7 +22,7 @@ for the JavaScript code in this file
 */
 var NAVTREE =
 [
-  [ "RWA2_809Y(Maze Solver)", "index.html", [
+  [ "Maze Solver", "index.html", [
     [ "Maze search algorithm", "index.html", "index" ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ]

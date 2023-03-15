@@ -1,0 +1,6 @@
+<map id="API::setWall" name="API::setWall">
+<area shape="rect" id="node1" title=" " alt="" coords="453,31,553,57"/>
+<area shape="rect" id="node2" href="$classrwa2_1_1_mouse.html#abbcc99c41fd073426fdfd790f947956e" title=" " alt="" coords="245,23,405,65"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="74,5,129,32"/>
+<area shape="rect" id="node4" href="$classrwa2_1_1_mouse.html#ae55f4d0a8023d515b833bde6c10cd31d" title="Update the walls in the maze and highlight the walls in the simulator." alt="" coords="5,56,197,83"/>
+</map>

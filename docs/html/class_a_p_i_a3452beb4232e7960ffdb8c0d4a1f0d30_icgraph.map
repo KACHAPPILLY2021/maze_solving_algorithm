@@ -1,0 +1,6 @@
+<map id="API::wallFront" name="API::wallFront">
+<area shape="rect" id="node1" title=" " alt="" coords="361,31,472,57"/>
+<area shape="rect" id="node2" href="$classrwa2_1_1_mouse.html#a67347f2cd59210efbffa9da60b36bf74" title="Move the robot from the current position to goal position. this." alt="" coords="108,5,313,32"/>
+<area shape="rect" id="node4" href="$classrwa2_1_1_mouse.html#ae55f4d0a8023d515b833bde6c10cd31d" title="Update the walls in the maze and highlight the walls in the simulator." alt="" coords="115,56,307,83"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,5,60,32"/>
+</map>

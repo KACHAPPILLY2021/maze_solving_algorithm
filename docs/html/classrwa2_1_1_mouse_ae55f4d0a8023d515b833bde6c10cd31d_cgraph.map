@@ -1,0 +1,9 @@
+<map id="rwa2::Mouse::update_wall" name="rwa2::Mouse::update_wall">
+<area shape="rect" id="node1" title="Update the walls in the maze and highlight the walls in the simulator." alt="" coords="5,115,197,141"/>
+<area shape="rect" id="node2" href="$classrwa2_1_1_mouse.html#abbcc99c41fd073426fdfd790f947956e" title=" " alt="" coords="245,23,405,65"/>
+<area shape="rect" id="node5" href="$class_a_p_i.html#a3452beb4232e7960ffdb8c0d4a1f0d30" title=" " alt="" coords="270,89,381,116"/>
+<area shape="rect" id="node6" href="$class_a_p_i.html#a43b1e7f9b91aba577078af681c7807b3" title=" " alt="" coords="274,140,377,167"/>
+<area shape="rect" id="node7" href="$class_a_p_i.html#acdc812c3acadeb2890691e6c95a89816" title=" " alt="" coords="269,191,381,217"/>
+<area shape="rect" id="node3" href="$class_a_p_i.html#a25a489520b0b69b7a0b1870cf350f654" title=" " alt="" coords="454,5,553,32"/>
+<area shape="rect" id="node4" href="$class_a_p_i.html#a9b0b04cf1cfc62ae6f5eef1ac1729eb2" title=" " alt="" coords="453,56,553,83"/>
+</map>

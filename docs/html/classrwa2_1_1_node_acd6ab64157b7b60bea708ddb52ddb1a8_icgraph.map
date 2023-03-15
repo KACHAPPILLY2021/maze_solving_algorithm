@@ -1,0 +1,4 @@
+<map id="rwa2::Node::is_wall" name="rwa2::Node::is_wall">
+<area shape="rect" id="node1" title="Return whether or not there is a wall in a cell." alt="" coords="212,5,361,32"/>
+<area shape="rect" id="node2" href="$classrwa2_1_1_node.html#a9e887221d02616392f572dd4018b71ed" title="Set the wall of a cell." alt="" coords="5,5,164,32"/>
+</map>

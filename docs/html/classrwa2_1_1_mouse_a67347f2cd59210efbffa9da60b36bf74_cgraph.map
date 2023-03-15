@@ -1,0 +1,6 @@
+<map id="rwa2::Mouse::move_to_goal" name="rwa2::Mouse::move_to_goal">
+<area shape="rect" id="node1" title="Move the robot from the current position to goal position. this." alt="" coords="5,56,211,83"/>
+<area shape="rect" id="node2" href="$class_a_p_i.html#a26cc8c35d6c492fc782647b7e347525e" title=" " alt="" coords="259,5,393,32"/>
+<area shape="rect" id="node3" href="$class_a_p_i.html#ae5c04edd8e44f455ac6bf8a19c2ba282" title=" " alt="" coords="267,56,385,83"/>
+<area shape="rect" id="node4" href="$class_a_p_i.html#a3452beb4232e7960ffdb8c0d4a1f0d30" title=" " alt="" coords="271,107,381,133"/>
+</map>

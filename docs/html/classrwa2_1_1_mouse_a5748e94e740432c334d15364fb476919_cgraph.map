@@ -1,0 +1,4 @@
+<map id="rwa2::Mouse::turn_left" name="rwa2::Mouse::turn_left">
+<area shape="rect" id="node1" title="Make the mouse rotate 90 deg CCW." alt="" coords="5,5,173,32"/>
+<area shape="rect" id="node2" href="$class_a_p_i.html#af04ee9209026f2a6e1c502e6c900573f" title=" " alt="" coords="221,5,324,32"/>
+</map>
