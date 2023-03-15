@@ -166,7 +166,9 @@ How to start simulator and use this DFS code in it.
 <!-- CONTRIBUTORS -->
 ## Contributors
 
-Here are the
+- [Hemanth Joseph](https://github.com/HemanthJoseph)
+- [Jeffin Johny](https://github.com/KACHAPPILLY2021)
+- [Pradip Kathiriya](https://github.com/Pradip-Kathiriya)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
